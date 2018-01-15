@@ -1,0 +1,23 @@
+.container {
+  font-family: 'Roboto', sans-serif;
+  background-color: #eee;
+  margin: 0 20px;
+  text-align: center;
+}
+
+.heading {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+div {
+  padding: 10px 0;
+}
+
+input[type='number'] {
+  max-width: 50px;
+}
+
+input {
+  margin-right: 10px;
+}
