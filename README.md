@@ -1,2 +1,1 @@
-# datecalculator
-ReasonML Date Calculator
+# Date Calculator
